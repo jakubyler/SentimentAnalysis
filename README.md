@@ -1,4 +1,4 @@
-# GameLengthPrediction
+# SentimentAnalysis
 
 In this project we perform sentiment analysis based on 1.6 mln tweets.
 
