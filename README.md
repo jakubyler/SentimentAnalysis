@@ -1,5 +1,7 @@
 # GameLengthPrediction
 
+In this project we perform sentiment analysis on 1.6 mln tweets.
+
 Libraries:
 numpy, pandas, matplotlib, seaborn, sklearn, tensorflow, wordcloud, nltk, gensim
 
